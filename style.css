@@ -338,6 +338,10 @@ label {
     color: #dab241;
 }
 
+.google-map {
+    width:90%;
+}
+
 select {
     width: 100%;
 }
